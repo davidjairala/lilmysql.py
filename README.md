@@ -1,5 +1,9 @@
 Quick and dirty library for MySQL queries.
 
+**Requires MySQLdb library**
+
+    pip install MySQLdb
+
 Ussage is pretty simple and easy:
 
     from lilmysql import *
